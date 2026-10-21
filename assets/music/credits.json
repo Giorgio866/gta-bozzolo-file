@@ -1,4 +1,7 @@
 [
+ {"file":"aiosa1.mp3","titolo":"Brano 1","interprete":"G. AIOSA","licenza":"Brano dell'autore (G. AIOSA)"},
+ {"file":"aiosa2.mp3","titolo":"Brano 2","interprete":"G. AIOSA","licenza":"Brano dell'autore (G. AIOSA)"},
+ {"file":"aiosa3.mp3","titolo":"Brano 3","interprete":"G. AIOSA","licenza":"Brano dell'autore (G. AIOSA)"},
  {"file":"osolemio.mp3","titolo":"'O sole mio","interprete":"Enrico Caruso","anno":1916,"fonte":"https://archive.org/details/OSoleMioEnricoCaruso1916","licenza":"Pubblico dominio (Public Domain Mark 1.0)"},
  {"file":"funiculi.mp3","titolo":"Funiculì funiculà","interprete":"Vessella's Italian Band","anno":1913,"fonte":"https://archive.org/details/78_funiculi-funicula_vessellas-italian-band-denza_gbia3033472b","licenza":"Pubblico dominio (registrazione e composizione oltre i termini)"},
  {"file":"surriento.mp3","titolo":"Torna a Surriento","interprete":"Mario Laurenti","anno":1920,"fonte":"https://archive.org/details/78_torna-a-surriento_mario-laurenti-ernesto-de-curtis_gbia0298823b","licenza":"Pubblico dominio (registrazione e composizione oltre i termini)"},
